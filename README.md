@@ -6,7 +6,9 @@ Title：A bi-directional segmentation method for prostate ultrasound images unde
 Note：The code upload success, welcome to communicate and study.
       In order to understand the whole method implementation process, we present the code in the form of a jupyter notebook file.
       The file does not contain a transform localized convolutional network designed based on initial localization. For details, see https://github.com/human-analysis/secure-face-matching
-      In our method, the matrix TP is used to complete the initial positioning, and the specific value is given by the transform localized convolutional network. The PCA calculation process is as follows：![339347c061bc4f6cfd291eee998501d0](https://github.com/jiangjiangv/BiSeC/assets/164507468/844e30b3-11a2-4d3e-8df4-b01c142b37e4)
+      In our method, the matrix TP is used to complete the initial positioning, and the specific value is given by the transform localized convolutional network. The PCA calculation process is as follows：
+      ![376534cebd9df045302d0c59ae1e05c5](https://github.com/jiangjiangv/BiSeC/assets/164507468/adf0d9e1-1a26-48e9-903a-efe3152fc1a4)
+
 
 
 

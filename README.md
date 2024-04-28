@@ -3,4 +3,4 @@
 
 Title：A bi-directional segmentation method for prostate ultrasound images under semantic constraints
 
-Note：The relevant code is being sorted out, please wait patiently...
+Note：The code upload success, welcome to communicate and study.

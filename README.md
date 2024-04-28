@@ -8,7 +8,7 @@ Note：The code upload success, welcome to communicate and study.
       The file does not contain a transform localized convolutional network designed based on initial localization. For details, see https://github.com/human-analysis/secure-face-matching
       In our method, the matrix TP is used to complete the initial positioning, and the specific value is given by the transform localized convolutional network. The PCA calculation process is as follows：
        
-       ![376534cebd9df045302d0c59ae1e05c5](https://github.com/jiangjiangv/BiSeC/assets/164507468/adf0d9e1-1a26-48e9-903a-efe3152fc1a4)
+  ![376534cebd9df045302d0c59ae1e05c5](https://github.com/jiangjiangv/BiSeC/assets/164507468/adf0d9e1-1a26-48e9-903a-efe3152fc1a4)
 
 
 
